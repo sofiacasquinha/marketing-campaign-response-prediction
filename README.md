@@ -1,4 +1,4 @@
-# Marketing Campaign Response Prediction
+# Marketing Campaign Response Prediction 
 
 A machine learning classification project developed to predict which customers are most likely to respond to a marketing campaign.
 
